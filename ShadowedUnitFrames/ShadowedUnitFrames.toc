@@ -1,13 +1,10 @@
-## Interface: 100105
+## Interface: 100200
 ## Title: Shadowed Unit Frames
 ## Notes: Moooooooooooooooooo
 ## Author: Shadowed
-## Version: v4.4.6
+## Version: v5.0.0
 ## SavedVariables: ShadowedUFDB
-## X-Website: https://www.wowace.com/addons/shadowed-unit-frames/
 ## OptionalDeps: Ace3, LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets, LibDualSpec-1.0, LibSpellRange-1.0, UTF8, Clique
-## X-Curse-Project-ID: 19268
-## X-WoWI-ID: 13494
 
 #@no-lib-strip@
 libs\LibStub\LibStub.lua
@@ -55,7 +52,6 @@ modules\combopoints.lua
 modules\incheal.lua
 modules\incabsorb.lua
 modules\healabsorb.lua
-modules\range.lua
 modules\empty.lua
 modules\druid.lua
 modules\soulshards.lua
